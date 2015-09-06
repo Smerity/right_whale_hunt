@@ -1,7 +1,9 @@
 # The Right Whale Hunt
 ## Annotated faces for NOAA Right Whale Recognition Kaggle competition
 
-![Right Whale Hunt](http://i.imgur.com/fqfbBFl.jpg)
+<center>
+  <img src="http://i.imgur.com/fqfbBFl.jpg" alt="Moby Dick" width="350px" />
+</center>
 
 This repository contains Sloth annotations for extracting whale heads from whale images in the [NOAA Right Whale Recognition Kaggle competition](https://www.kaggle.com/c/noaa-right-whale-recognition).
 

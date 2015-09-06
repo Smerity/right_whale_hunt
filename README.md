@@ -1,7 +1,7 @@
 # The Right Whale Hunt
 ## Annotated faces for NOAA Right Whale Recognition Kaggle competition
 
-![Right Whale Hunt](http://i.imgur.com/RuINg4m.jpg)
+![Right Whale Hunt](http://i.imgur.com/fqfbBFl.jpg)
 
 This repository contains Sloth annotations for extracting whale heads from whale images in the [NOAA Right Whale Recognition Kaggle competition](https://www.kaggle.com/c/noaa-right-whale-recognition).
 
@@ -26,7 +26,7 @@ To extract the heads, simply run:
 
     python extract_tiles_from_sloth.py annotated_whales.json
 
-By default this will provide a 256 x 256 image of the head.
+By default this will provide a 256 x 256 image of the head, maintaining the same width:height ratio.
 
 ![Whale 26288](http://i.imgur.com/o5cf6pd.jpg)
 

@@ -26,7 +26,7 @@ The data is assumed to be in the `imgs` folder, sorted by identified whale as pr
 
 To extract the heads, simply run:
 
-    python extract_tiles_from_sloth.py annotated_whales.json
+    python extract_tiles_from_sloth.py annotations/whale_faces_smerity.json
 
 By default this will provide a 256 x 256 image of the head, maintaining the same width:height ratio.
 
@@ -36,7 +36,9 @@ By default this will provide a 256 x 256 image of the head, maintaining the same
 
 If you'd like to provide additional annotation, or augment the annotation yourself, you can do so by using [Sloth](http://sloth.readthedocs.org/en/latest/), a versatile tool for various labeling tasks in the context of computer vision research.
 
-    sloth --config slothwhales.py annotated_whales.json
+    find imgs/*/* -iname "*.jpg" | shuf | xargs sloth appendfiles annotations/whale_faces_smerity.json
+    ln -s annotations/whale_faces_smerity.json .
+    sloth --config slothwhales.py whale_faces_smerity.json
 
 Whilst no explicit annotation guidelines were used, the head should capture all of the visible callosity patterns on the whale's head and include the eyes and eyebrow callosities if visible. If in doubt, more is better advised than less.
 

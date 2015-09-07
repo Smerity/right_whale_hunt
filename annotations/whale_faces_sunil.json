@@ -1,0 +1,4254 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 435.0,
+                "type": "rect",
+                "width": 745.0,
+                "x": 2538.0,
+                "y": 1851.0
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_23821/w_5046.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 382.0,
+                "type": "rect",
+                "width": 414.0,
+                "x": 1577.0,
+                "y": 935.0
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_81768/w_3232.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 289.0,
+                "type": "rect",
+                "width": 249.0,
+                "x": 1611.0,
+                "y": 730.0
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90271/w_919.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 249.48735103459887,
+                "type": "rect",
+                "width": 252.41103092953563,
+                "x": 1198.7087569240487,
+                "y": 817.6558106172982
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_72327/w_5392.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 299.1899092485229,
+                "type": "rect",
+                "width": 381.0529463067503,
+                "x": 1265.953394507593,
+                "y": 901.4679676054838
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_94546/w_2818.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 225.1233519101262,
+                "type": "rect",
+                "width": 464.8651032949358,
+                "x": 1971.5348091523176,
+                "y": 919.010046975104
+            },
+            {
+                "class": "Head",
+                "height": 456.094063610126,
+                "type": "rect",
+                "width": 354.7398272523201,
+                "x": 1967.6365692924019,
+                "y": 901.4679676054838
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52759/w_4095.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 263.1311905443034,
+                "type": "rect",
+                "width": 369.35822672700374,
+                "x": 1323.452432441348,
+                "y": 839.0961298468341
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48386/w_3730.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 310.88462882826957,
+                "type": "rect",
+                "width": 344.9942276025313,
+                "x": 1709.378178572993,
+                "y": 864.4346889362855
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06069/w_4995.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 399.56958564134953,
+                "type": "rect",
+                "width": 405.4169454312232,
+                "x": 1851.6639334599126,
+                "y": 256.3092707894511
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_95091/w_5130.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 215.37775226033716,
+                "type": "rect",
+                "width": 328.42670819788987,
+                "x": 1361.4602710755253,
+                "y": 727.0217338742605
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_23847/w_2808.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 1.4551157159046397,
+                "type": "rect",
+                "width": 1.4551157159046397,
+                "x": 1556.9738160179738,
+                "y": 1030.221926860491
+            },
+            {
+                "class": "Head",
+                "height": 381.0232558139535,
+                "type": "rect",
+                "width": 354.23255813953483,
+                "x": 1684.8372093023256,
+                "y": 916.8372093023256
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86206/w_2799.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 419.50497866287344,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 1377.9573257467996,
+                "y": 588.4722617354197
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_31739/w_2113.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 335.0213371266002,
+                "type": "rect",
+                "width": 349.58748221906103,
+                "x": 1308.0398293029873,
+                "y": 1372.1308677098152
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_13789/w_4701.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 436.98435277382646,
+                "type": "rect",
+                "width": 358.3271692745377,
+                "x": 1605.1891891891892,
+                "y": 553.5135135135135
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46747/w_7166.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 302.97581792318636,
+                "type": "rect",
+                "width": 346.67425320056896,
+                "x": 1369.217638691323,
+                "y": 675.869132290185
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_38543/w_2757.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 619.4253200568992,
+                "type": "rect",
+                "width": 653.8378378378379,
+                "x": 2305.6386913229016,
+                "y": 1027.4594594594594
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_97688/w_3271.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 444.80823182100994,
+                "type": "rect",
+                "width": 586.5603056980358,
+                "x": 1823.2249502113937,
+                "y": 1906.3209935186155
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_58309/w_5310.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 198.72199440514999,
+                "type": "rect",
+                "width": 275.62988790629606,
+                "x": 914.25320056899,
+                "y": 656.3869132290185
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_95091/w_8886.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 864.0,
+                "type": "rect",
+                "width": 768.5581395348836,
+                "x": 356.65116279069775,
+                "y": 1717.953488372093
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52759/w_785.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 511.2716927453771,
+                "type": "rect",
+                "width": 417.8662873399717,
+                "x": 2281.058321479374,
+                "y": 1764.8705547652917
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98645/w_2069.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 256.36415362731157,
+                "type": "rect",
+                "width": 442.81081081081084,
+                "x": 1185.6842105263158,
+                "y": 920.5803698435278
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_74232/w_6784.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 530.9359886201993,
+                "type": "rect",
+                "width": 678.4182076813656,
+                "x": 334.29302987197724,
+                "y": 771.8236130867709
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_34663/w_7001.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 206.29302987197718,
+                "type": "rect",
+                "width": 389.1436699857752,
+                "x": 759.5334281650071,
+                "y": 597.7809388335704
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_74232/w_2080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 297.149359886202,
+                "type": "rect",
+                "width": 390.37268847795167,
+                "x": 1165.2916073968706,
+                "y": 952.6258890469418
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_60921/w_8901.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 320.4551920341394,
+                "type": "rect",
+                "width": 486.50924608819355,
+                "x": 1121.593172119488,
+                "y": 737.0469416785206
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09454/w_8592.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 442.8108108108107,
+                "type": "rect",
+                "width": 466.11664295874834,
+                "x": 1342.9985775248933,
+                "y": 920.5803698435278
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_54574/w_4467.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 653.8378378378379,
+                "type": "rect",
+                "width": 938.9701280227594,
+                "x": 1582.9758179231865,
+                "y": 2054.9189189189187
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_47700/w_4503.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.3271692745378,
+                "type": "rect",
+                "width": 416.59174964438125,
+                "x": 1159.4651493598863,
+                "y": 687.5220483641536
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90271/w_5739.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 594.8449502133712,
+                "type": "rect",
+                "width": 894.7254623044096,
+                "x": 2172.904694167852,
+                "y": 1396.1650071123756
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_57338/w_5528.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 241.79800853485074,
+                "type": "rect",
+                "width": 285.49644381223334,
+                "x": 1258.5149359886202,
+                "y": 798.2247510668564
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_04540/w_314.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 160.2275960170697,
+                "type": "rect",
+                "width": 288.4096728307254,
+                "x": 1471.1806543385492,
+                "y": 728.3072546230442
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_37654/w_4767.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 337.9345661450924,
+                "type": "rect",
+                "width": 407.8520625889048,
+                "x": 1016.7169274537696,
+                "y": 757.439544807966
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_80247/w_9011.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 125.26884779516365,
+                "type": "rect",
+                "width": 215.57894736842104,
+                "x": 1264.3413940256046,
+                "y": 576.8193456614509
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09062/w_1579.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 404.9388335704125,
+                "type": "rect",
+                "width": 442.81081081081084,
+                "x": 1535.271692745377,
+                "y": 501.0753911806544
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46747/w_1803.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 609.5931721194879,
+                "type": "rect",
+                "width": 717.74679943101,
+                "x": 2536.6941678520625,
+                "y": 2605.5192034139404
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_75413/w_5881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 722.4807965860598,
+                "type": "rect",
+                "width": 579.7325746799431,
+                "x": 1168.2048364153627,
+                "y": 367.0668563300142
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_55550/w_8988.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 416.59174964438125,
+                "type": "rect",
+                "width": 396.19914651493605,
+                "x": 1089.547652916074,
+                "y": 1401.2631578947369
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46169/w_8790.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 742.3271692745378,
+                "type": "rect",
+                "width": 840.6486486486488,
+                "x": 2364.6315789473683,
+                "y": 825.900426742532
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_89456/w_8267.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 308.80227596017085,
+                "type": "rect",
+                "width": 419.5049786628733,
+                "x": 1235.209103840683,
+                "y": 1200.2503556187767
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_29569/w_8999.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 521.4679943100995,
+                "type": "rect",
+                "width": 672.9559032716927,
+                "x": 1389.6102418207681,
+                "y": 640.9103840682789
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_13789/w_6839.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 352.50071123755333,
+                "type": "rect",
+                "width": 486.5092460881933,
+                "x": 1130.3328591749646,
+                "y": 1092.4608819345663
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_70904/w_725.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 337.9345661450925,
+                "type": "rect",
+                "width": 533.1209103840681,
+                "x": 1514.879089615932,
+                "y": 614.6913229018493
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_08923/w_3468.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 326.28165007112375,
+                "type": "rect",
+                "width": 431.1578947368423,
+                "x": 1753.7638691322902,
+                "y": 556.4267425320057
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_77693/w_3049.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 326.28165007112375,
+                "type": "rect",
+                "width": 404.9388335704126,
+                "x": 973.018492176387,
+                "y": 847.7496443812233
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_26397/w_6178.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 393.285917496444,
+                "type": "rect",
+                "width": 454.4637268847796,
+                "x": 1258.5149359886202,
+                "y": 705.0014224751067
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_87604/w_5008.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 683.334281650071,
+                "type": "rect",
+                "width": 816.0682788051213,
+                "x": 2177.8207681365575,
+                "y": 1553.4793741109531
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_66353/w_6004.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 526.0199146514938,
+                "type": "rect",
+                "width": 968.4665718349929,
+                "x": 2030.3385490753913,
+                "y": 2000.842105263158
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78372/w_8230.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 256.36415362731157,
+                "type": "rect",
+                "width": 340.8477951635846,
+                "x": 1407.0896159317213,
+                "y": 876.8819345661451
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_15615/w_7150.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 390.37268847795167,
+                "type": "rect",
+                "width": 451.5504978662873,
+                "x": 1660.5405405405406,
+                "y": 737.0469416785206
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09651/w_4346.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 308.8022759601706,
+                "type": "rect",
+                "width": 340.8477951635848,
+                "x": 1532.3584637268848,
+                "y": 806.9644381223329
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_58972/w_454.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 253.45092460881915,
+                "type": "rect",
+                "width": 332.1081081081081,
+                "x": 1989.7354196301565,
+                "y": 1241.0355618776673
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_39293/w_2493.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 381.633001422475,
+                "type": "rect",
+                "width": 402.0256045519204,
+                "x": 1363.3911806543385,
+                "y": 754.5263157894738
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_74683/w_1310.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 235.97155049786636,
+                "type": "rect",
+                "width": 471.9431009957326,
+                "x": 527.294452347084,
+                "y": 678.7823613086771
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_03227/w_46.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 364.1536273115221,
+                "type": "rect",
+                "width": 501.0753911806544,
+                "x": 1302.213371266003,
+                "y": 801.1379800853485
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_97688/w_8485.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.14509246088198,
+                "type": "rect",
+                "width": 399.1123755334281,
+                "x": 1514.879089615932,
+                "y": 929.3200568990043
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_58474/w_7975.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 201.0128022759602,
+                "type": "rect",
+                "width": 256.36415362731145,
+                "x": 1514.879089615932,
+                "y": 1255.6017069701281
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_59255/w_5013.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.49644381223334,
+                "type": "rect",
+                "width": 355.4139402560454,
+                "x": 1287.647226173542,
+                "y": 964.2788051209104
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98618/w_208.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 540.7681365576102,
+                "type": "rect",
+                "width": 452.2788051209104,
+                "x": 2910.315789473684,
+                "y": 1710.7937411095306
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48966/w_5800.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 364.1536273115221,
+                "type": "rect",
+                "width": 434.0711237553344,
+                "x": 1485.74679943101,
+                "y": 1016.7169274537696
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_36851/w_9214.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 545.6842105263158,
+                "type": "rect",
+                "width": 535.8520625889046,
+                "x": 2389.2119487908963,
+                "y": 1096.284495021337
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_38894/w_4120.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 317.5419630156473,
+                "type": "rect",
+                "width": 335.02133712660043,
+                "x": 1733.371266002845,
+                "y": 964.2788051209104
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82554/w_2882.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 575.180654338549,
+                "type": "rect",
+                "width": 550.6002844950215,
+                "x": 1976.2617354196302,
+                "y": 1052.0398293029873
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33152/w_91.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 367.0668563300144,
+                "type": "rect",
+                "width": 352.50071123755333,
+                "x": 1048.7624466571835,
+                "y": 1010.8904694167852
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_23525/w_8207.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 349.58748221906126,
+                "type": "rect",
+                "width": 434.0711237553344,
+                "x": 1331.3456614509246,
+                "y": 821.5305832147938
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_27820/w_8287.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 209.75248933143655,
+                "type": "rect",
+                "width": 317.5419630156473,
+                "x": 1421.655761024182,
+                "y": 978.8449502133714
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_43326/w_2324.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 416.59174964438125,
+                "type": "rect",
+                "width": 652.5633001422475,
+                "x": 1206.076813655761,
+                "y": 1118.6799431009958
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_76782/w_3709.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 483.59601706970125,
+                "type": "rect",
+                "width": 576.8193456614508,
+                "x": 1171.118065433855,
+                "y": 1112.8534850640115
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_67036/w_701.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 422.41820768136574,
+                "type": "rect",
+                "width": 466.11664295874823,
+                "x": 719.5675675675676,
+                "y": 929.3200568990043
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_87155/w_4065.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 343.7610241820769,
+                "type": "rect",
+                "width": 436.9843527738266,
+                "x": 993.4110953058322,
+                "y": 608.8648648648649
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98996/w_5660.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.3271692745377,
+                "type": "rect",
+                "width": 355.4139402560455,
+                "x": 739.9601706970128,
+                "y": 1045.8492176386915
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82387/w_1887.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 314.6287339971551,
+                "type": "rect",
+                "width": 454.4637268847796,
+                "x": 1395.4366998577525,
+                "y": 798.2247510668564
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_53889/w_743.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 436.9843527738265,
+                "type": "rect",
+                "width": 466.11664295874834,
+                "x": 1273.081081081081,
+                "y": 425.33143669985776
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_24730/w_5602.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 503.98862019914645,
+                "type": "rect",
+                "width": 495.24893314367,
+                "x": 1255.6017069701281,
+                "y": 754.5263157894738
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33140/w_213.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.4964438122332,
+                "type": "rect",
+                "width": 614.6913229018492,
+                "x": 1375.0440967283073,
+                "y": 862.3157894736843
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_68116/w_4316.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 702.9985775248933,
+                "type": "rect",
+                "width": 609.5931721194879,
+                "x": 2541.6102418207684,
+                "y": 1292.927453769559
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_99326/w_2096.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 247.624466571835,
+                "type": "rect",
+                "width": 329.19487908961605,
+                "x": 1273.081081081081,
+                "y": 751.6130867709816
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_12609/w_258.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 535.8520625889048,
+                "type": "rect",
+                "width": 471.9431009957325,
+                "x": 2689.0924608819346,
+                "y": 1032.375533428165
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_54920/w_3660.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 332.1081081081081,
+                "type": "rect",
+                "width": 413.67852062588895,
+                "x": 885.6216216216217,
+                "y": 588.4722617354197
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_55550/w_4584.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 259.27738264580387,
+                "type": "rect",
+                "width": 276.7567567567569,
+                "x": 1459.5277382645804,
+                "y": 981.7581792318634
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_70904/w_2360.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 247.624466571835,
+                "type": "rect",
+                "width": 399.1123755334281,
+                "x": 1541.0981507823615,
+                "y": 949.7126600284496
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_62655/w_1822.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 227.2318634423899,
+                "type": "rect",
+                "width": 369.98008534850646,
+                "x": 1532.3584637268848,
+                "y": 987.5846372688478
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79199/w_2803.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 201.0128022759602,
+                "type": "rect",
+                "width": 355.41394025604563,
+                "x": 1194.4238975817923,
+                "y": 603.0384068278805
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_95370/w_7910.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 589.9288762446658,
+                "type": "rect",
+                "width": 781.6557610241821,
+                "x": 2344.9672830725463,
+                "y": 1769.786628733997
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_49491/w_7702.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.0170697012802,
+                "type": "rect",
+                "width": 297.14935988620186,
+                "x": 1197.3371266002846,
+                "y": 1098.2873399715506
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33961/w_2829.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 346.6742532005692,
+                "type": "rect",
+                "width": 361.2403982930298,
+                "x": 1208.9900426742533,
+                "y": 1083.7211948790896
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_21213/w_5157.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 256.0,
+                "type": "rect",
+                "width": 366.1395348837209,
+                "x": 1268.093023255814,
+                "y": 753.1162790697674
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_22448/w_9275.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 297.1493598862021,
+                "type": "rect",
+                "width": 367.06685633001416,
+                "x": 1165.2916073968706,
+                "y": 853.5761024182077
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_08700/w_3299.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 355.41394025604563,
+                "type": "rect",
+                "width": 431.1578947368421,
+                "x": 393.28591749644386,
+                "y": 594.298719772404
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79823/w_5005.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.0170697012803,
+                "type": "rect",
+                "width": 282.58321479374126,
+                "x": 1415.8293029871977,
+                "y": 710.827880512091
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_11099/w_5688.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 326.28165007112375,
+                "type": "rect",
+                "width": 413.6785206258892,
+                "x": 1331.3456614509246,
+                "y": 1599.362731152205
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_38681/w_2077.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 262.19061166429583,
+                "type": "rect",
+                "width": 404.9388335704127,
+                "x": 1683.8463726884777,
+                "y": 748.6998577524894
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82089/w_3679.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 344.50071123755345,
+                "type": "rect",
+                "width": 600.1251778093883,
+                "x": 1181.4074354253753,
+                "y": 960.6330299560841
+            },
+            {
+                "class": "Head",
+                "height": 16.950271042232544,
+                "type": "rect",
+                "width": 2.732165003448472,
+                "x": 1406.172291483476,
+                "y": 978.206811466766
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48415/w_5964.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 221.2233285917498,
+                "type": "rect",
+                "width": 344.12517780938833,
+                "x": 2271.226173541963,
+                "y": 1440.4096728307254
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_30074/w_8196.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 180.620199146515,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 949.7126600284496,
+                "y": 932.2332859174965
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98633/w_1621.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 142.74822190611667,
+                "type": "rect",
+                "width": 262.19061166429583,
+                "x": 1369.217638691323,
+                "y": 1407.0896159317213
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90911/w_1236.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 291.3229018492177,
+                "type": "rect",
+                "width": 396.19914651493605,
+                "x": 1354.651493598862,
+                "y": 626.3442389758179
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_72235/w_2325.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 125.26884779516354,
+                "type": "rect",
+                "width": 224.3186344238975,
+                "x": 1576.0568990042675,
+                "y": 1098.2873399715506
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79823/w_6520.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 154.4011379800853,
+                "type": "rect",
+                "width": 422.41820768136563,
+                "x": 1322.6059743954481,
+                "y": 725.394025604552
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_81875/w_5780.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 163.14082503556187,
+                "type": "rect",
+                "width": 404.9388335704125,
+                "x": 1031.8154036047877,
+                "y": 706.8499893764848
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_83892/w_1124.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 335.0213371266003,
+                "type": "rect",
+                "width": 358.3271692745377,
+                "x": 1187.7709815078238,
+                "y": 839.4438122332859
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_68116/w_446.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 262.19061166429583,
+                "type": "rect",
+                "width": 262.19061166429583,
+                "x": 1450.788051209104,
+                "y": 906.0142247510669
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41921/w_9107.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.14509246088198,
+                "type": "rect",
+                "width": 209.75248933143666,
+                "x": 1628.4950213371267,
+                "y": 999.2375533428166
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_74232/w_8078.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 340.8477951635847,
+                "type": "rect",
+                "width": 358.3271692745377,
+                "x": 1165.2916073968706,
+                "y": 772.0056899004268
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_15519/w_2749.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 337.9345661450924,
+                "type": "rect",
+                "width": 422.41820768136563,
+                "x": 1025.456614509246,
+                "y": 888.5348506401139
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79166/w_3667.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 244.7112375533427,
+                "type": "rect",
+                "width": 524.3812233285919,
+                "x": 1395.8293029871977,
+                "y": 1015.8492176386915
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_39915/w_3707.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 177.7069701280227,
+                "type": "rect",
+                "width": 317.5419630156473,
+                "x": 1363.3911806543385,
+                "y": 943.8862019914652
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98996/w_6232.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 279.12375533428167,
+                "type": "rect",
+                "width": 245.8947368421052,
+                "x": 1565.086770981508,
+                "y": 804.1422475106685
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_59173/w_4985.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 225.04694167852062,
+                "type": "rect",
+                "width": 239.11237553342812,
+                "x": 904.8762446657183,
+                "y": 794.6970128022759
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_69459/w_8808.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 218.49217638691334,
+                "type": "rect",
+                "width": 276.75675675675666,
+                "x": 1340.0853485064013,
+                "y": 1107.027027027027
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78785/w_8762.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 244.71123755334293,
+                "type": "rect",
+                "width": 361.2403982930298,
+                "x": 1619.7553342816502,
+                "y": 984.6714082503556
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06069/w_3909.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 501.43954480796583,
+                "type": "rect",
+                "width": 825.9004267425321,
+                "x": 1848.4438122332858,
+                "y": 1794.366998577525
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_87604/w_7202.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 403.118065433855,
+                "type": "rect",
+                "width": 363.78947368421063,
+                "x": 1558.3954480796585,
+                "y": 1641.968705547653
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98507/w_7561.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 308.80227596017085,
+                "type": "rect",
+                "width": 410.7652916073971,
+                "x": 1643.0611664295875,
+                "y": 1051.6756756756756
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_05349/w_6403.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 276.7567567567568,
+                "type": "rect",
+                "width": 305.88904694167877,
+                "x": 1826.5945945945946,
+                "y": 760.352773826458
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_77693/w_3474.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 384.5462304409674,
+                "type": "rect",
+                "width": 407.8520625889046,
+                "x": 1377.9573257467996,
+                "y": 1019.6301564722618
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_49877/w_7618.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 157.3143669985775,
+                "type": "rect",
+                "width": 209.7524893314369,
+                "x": 1520.705547652916,
+                "y": 926.4068278805121
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_97688/w_647.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 238.88477951635844,
+                "type": "rect",
+                "width": 116.52916073968709,
+                "x": 975.9317211948792,
+                "y": 978.8449502133714
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98645/w_9057.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 398.2019914651494,
+                "type": "rect",
+                "width": 678.4182076813659,
+                "x": 2222.0654338549075,
+                "y": 1327.339971550498
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_37014/w_8233.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 250.5376955903273,
+                "type": "rect",
+                "width": 276.75675675675666,
+                "x": 1762.503556187767,
+                "y": 1016.7169274537696
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52100/w_6716.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 192.27311522048353,
+                "type": "rect",
+                "width": 346.6742532005692,
+                "x": 1494.4864864864865,
+                "y": 996.3243243243244
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86206/w_5129.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 154.40113798008542,
+                "type": "rect",
+                "width": 183.53342816500708,
+                "x": 1506.9658605974396,
+                "y": 960.9317211948792
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79648/w_9424.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 381.6330014224751,
+                "type": "rect",
+                "width": 349.58748221906126,
+                "x": 879.7951635846373,
+                "y": 332.1081081081081
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_65586/w_2211.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 372.16500711237563,
+                "type": "rect",
+                "width": 471.8520625889048,
+                "x": 1362.3897581792319,
+                "y": 1249.411095305832
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_12820/w_4023.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 431.1578947368422,
+                "type": "rect",
+                "width": 361.2403982930298,
+                "x": 1407.0896159317213,
+                "y": 667.1294452347084
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_89456/w_5831.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 355.4139402560454,
+                "type": "rect",
+                "width": 512.7283072546231,
+                "x": 1529.4452347083927,
+                "y": 833.1834992887625
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_08324/w_6815.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 282.58321479374115,
+                "type": "rect",
+                "width": 276.7567567567569,
+                "x": 1442.0483641536273,
+                "y": 568.0796586059744
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_05661/w_966.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 218.4921763869133,
+                "type": "rect",
+                "width": 291.3229018492175,
+                "x": 1477.0071123755336,
+                "y": 457.3769559032717
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82602/w_3406.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 221.40540540540542,
+                "type": "rect",
+                "width": 305.88904694167854,
+                "x": 1442.0483641536273,
+                "y": 990.49786628734
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_85464/w_2894.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 203.56187766714083,
+                "type": "rect",
+                "width": 194.09388335704125,
+                "x": 340.8477951635846,
+                "y": 2106.6287339971545
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64526/w_5064.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 678.4182076813656,
+                "type": "rect",
+                "width": 973.3826458036986,
+                "x": 1430.5775248933144,
+                "y": 1022.543385490754
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06334/w_2525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 213.02987197724042,
+                "type": "rect",
+                "width": 265.103840682788,
+                "x": 809.5135135135134,
+                "y": 1159.8293029871975
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_65263/w_7470.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 506.90184921763876,
+                "type": "rect",
+                "width": 314.628733997155,
+                "x": 1238.122332859175,
+                "y": 964.2788051209104
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06339/w_856.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 302.97581792318636,
+                "type": "rect",
+                "width": 407.8520625889048,
+                "x": 1054.588904694168,
+                "y": 617.6045519203415
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_69459/w_6615.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 297.149359886202,
+                "type": "rect",
+                "width": 425.3314366998577,
+                "x": 1712.9786628733998,
+                "y": 603.0384068278805
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_81875/w_1529.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 518.5547652916074,
+                "type": "rect",
+                "width": 355.4139402560454,
+                "x": 1345.9118065433856,
+                "y": 384.5462304409673
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_59173/w_8087.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 241.79800853485062,
+                "type": "rect",
+                "width": 195.18634423897583,
+                "x": 1541.0981507823615,
+                "y": 1007.9772403982931
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_07483/w_669.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.49644381223345,
+                "type": "rect",
+                "width": 250.53769559032708,
+                "x": 1386.697012802276,
+                "y": 871.0554765291607
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_10021/w_5470.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 270.9302987197724,
+                "type": "rect",
+                "width": 372.8933143669986,
+                "x": 369.9800853485064,
+                "y": 201.01280227596018
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_24458/w_9450.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.49644381223334,
+                "type": "rect",
+                "width": 329.19487908961605,
+                "x": 1389.6102418207681,
+                "y": 1162.3783783783783
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_11242/w_7631.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 136.9217638691323,
+                "type": "rect",
+                "width": 372.89331436699877,
+                "x": 1552.75106685633,
+                "y": 658.3897581792319
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41921/w_2200.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 732.4950213371264,
+                "type": "rect",
+                "width": 707.914651493599,
+                "x": 1809.1152204836415,
+                "y": 1337.172119487909
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_11099/w_7627.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 816.0682788051213,
+                "type": "rect",
+                "width": 678.4182076813659,
+                "x": 2133.5761024182075,
+                "y": 2305.6386913229016
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_66852/w_6498.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 619.4253200568987,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 2177.8207681365575,
+                "y": 2261.394025604552
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_07863/w_8257.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 375.8065433854907,
+                "type": "rect",
+                "width": 291.3229018492177,
+                "x": 1386.2631578947369,
+                "y": 622.6045519203415
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_08017/w_6676.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 434.0711237553344,
+                "type": "rect",
+                "width": 361.24039829303,
+                "x": 1375.0440967283073,
+                "y": 1042.9359886201992
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_30331/w_3990.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 218.49217638691334,
+                "type": "rect",
+                "width": 337.9345661450925,
+                "x": 1733.371266002845,
+                "y": 1127.4196301564723
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_14892/w_5105.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 157.3143669985775,
+                "type": "rect",
+                "width": 308.8022759601706,
+                "x": 1156.5519203413942,
+                "y": 1031.2830725462304
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_28892/w_2578.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 319.5448079658604,
+                "type": "rect",
+                "width": 545.6842105263158,
+                "x": 2708.7567567567567,
+                "y": 1828.7795163584638
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90141/w_4458.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 259.27738264580375,
+                "type": "rect",
+                "width": 300.06258890469417,
+                "x": 1820.7681365576104,
+                "y": 1060.4153627311523
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52100/w_9405.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 221.40540540540536,
+                "type": "rect",
+                "width": 320.4551920341394,
+                "x": 1541.0981507823615,
+                "y": 317.54196301564724
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_26288/w_7530.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.14509246088198,
+                "type": "rect",
+                "width": 250.53769559032708,
+                "x": 1465.3541963015648,
+                "y": 568.0796586059744
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_68774/w_5590.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 265.1038406827879,
+                "type": "rect",
+                "width": 404.9388335704125,
+                "x": 1200.2503556187767,
+                "y": 1351.73826458037
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_63541/w_4509.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 314.6287339971551,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 1678.0199146514938,
+                "y": 792.398293029872
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_14270/w_1151.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 171.88051209103833,
+                "type": "rect",
+                "width": 343.76102418207665,
+                "x": 1319.692745376956,
+                "y": 1377.9573257467996
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_30331/w_5026.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.0170697012802,
+                "type": "rect",
+                "width": 343.7610241820769,
+                "x": 1290.5604551920342,
+                "y": 1182.7709815078238
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_08324/w_1170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 244.7112375533428,
+                "type": "rect",
+                "width": 372.89331436699865,
+                "x": 955.5391180654339,
+                "y": 702.0881934566146
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_87155/w_861.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 183.5334281650073,
+                "type": "rect",
+                "width": 235.97155049786625,
+                "x": 1599.362731152205,
+                "y": 1077.8947368421052
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06069/w_7640.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 224.3186344238976,
+                "type": "rect",
+                "width": 270.9302987197725,
+                "x": 1342.9985775248933,
+                "y": 809.8776671408251
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_13789/w_7255.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 195.18634423897583,
+                "type": "rect",
+                "width": 262.19061166429583,
+                "x": 1290.5604551920342,
+                "y": 777.8321479374112
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64714/w_5091.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 253.45092460881938,
+                "type": "rect",
+                "width": 381.6330014224752,
+                "x": 1322.6059743954481,
+                "y": 573.9061166429588
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_67036/w_6240.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 367.0668563300143,
+                "type": "rect",
+                "width": 480.6827880512092,
+                "x": 1497.3997155049788,
+                "y": 600.1251778093883
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64714/w_9313.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 408.0341394025604,
+                "type": "rect",
+                "width": 462.11095305832123,
+                "x": 2197.48506401138,
+                "y": 1435.49359886202
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52749/w_8255.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.13229018492166,
+                "type": "rect",
+                "width": 722.6628733997154,
+                "x": 2482.6173541963017,
+                "y": 1907.4366998577525
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82387/w_2706.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 142.74822190611667,
+                "type": "rect",
+                "width": 361.24039829303,
+                "x": 1141.9857752489331,
+                "y": 766.1792318634424
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_63541/w_1035.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 270.9302987197725,
+                "type": "rect",
+                "width": 320.4551920341394,
+                "x": 1037.1095305832148,
+                "y": 853.5761024182077
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90377/w_1145.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 265.103840682788,
+                "type": "rect",
+                "width": 128.18207681365584,
+                "x": 1558.5775248933144,
+                "y": 620.5177809388337
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_73136/w_7217.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 218.49217638691334,
+                "type": "rect",
+                "width": 346.67425320056896,
+                "x": 1340.0853485064013,
+                "y": 1226.4694167852062
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_70138/w_7489.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 361.24039829303,
+                "type": "rect",
+                "width": 422.41820768136563,
+                "x": 1305.126600284495,
+                "y": 906.0142247510669
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_53079/w_8097.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 335.0213371266002,
+                "type": "rect",
+                "width": 451.5504978662875,
+                "x": 1220.6429587482219,
+                "y": 1007.9772403982931
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82548/w_5487.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 305.88904694167854,
+                "type": "rect",
+                "width": 250.5376955903273,
+                "x": 1500.3129445234708,
+                "y": 1045.4153627311523
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_99573/w_646.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.3271692745378,
+                "type": "rect",
+                "width": 393.28591749644386,
+                "x": 955.5391180654339,
+                "y": 713.7411095305832
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09181/w_3186.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.01706970128043,
+                "type": "rect",
+                "width": 305.8890469416783,
+                "x": 1951.8634423897583,
+                "y": 1220.6429587482219
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_89456/w_1584.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 309.71266002844936,
+                "type": "rect",
+                "width": 319.54480796586085,
+                "x": 2335.135135135135,
+                "y": 1106.1166429587483
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_55079/w_4138.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 355.4139402560454,
+                "type": "rect",
+                "width": 320.45519203413915,
+                "x": 1756.6770981507825,
+                "y": 812.7908961593173
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_69459/w_6576.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 142.74822190611667,
+                "type": "rect",
+                "width": 238.88477951635855,
+                "x": 1185.6842105263158,
+                "y": 652.5633001422475
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_73666/w_1122.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 183.53342816500708,
+                "type": "rect",
+                "width": 335.0213371266002,
+                "x": 1634.321479374111,
+                "y": 917.6671408250356
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_43961/w_7576.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 186.44665718349927,
+                "type": "rect",
+                "width": 335.0213371266002,
+                "x": 1666.366998577525,
+                "y": 559.3399715504979
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09422/w_3227.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 402.0256045519202,
+                "type": "rect",
+                "width": 416.59174964438125,
+                "x": 1222.3371266002846,
+                "y": 1040.022759601707
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79823/w_1711.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 408.0341394025604,
+                "type": "rect",
+                "width": 516.1877667140825,
+                "x": 1656.7169274537696,
+                "y": 1184.773826458037
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_00442/w_9183.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 171.88051209103833,
+                "type": "rect",
+                "width": 294.2361308677098,
+                "x": 1541.0981507823615,
+                "y": 950.1052631578948
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_75932/w_5607.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 139.8349928876246,
+                "type": "rect",
+                "width": 209.75248933143666,
+                "x": 1561.4907539118067,
+                "y": 1258.5149359886202
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_80405/w_2278.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 215.57894736842115,
+                "type": "rect",
+                "width": 361.2403982930298,
+                "x": 1112.8534850640115,
+                "y": 999.2375533428166
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_80247/w_1603.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 160.2275960170697,
+                "type": "rect",
+                "width": 250.53769559032708,
+                "x": 1503.2261735419631,
+                "y": 783.6586059743955
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_98746/w_3518.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 227.2318634423898,
+                "type": "rect",
+                "width": 340.8477951635846,
+                "x": 1322.6059743954481,
+                "y": 1080.8079658605975
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_37658/w_1798.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 206.83926031294448,
+                "type": "rect",
+                "width": 294.23613086771,
+                "x": 1188.597439544808,
+                "y": 968.4110953058322
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_73592/w_7443.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 489.4224751066856,
+                "type": "rect",
+                "width": 390.37268847795167,
+                "x": 1200.2503556187767,
+                "y": 498.1621621621622
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_20448/w_9383.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 419.5049786628733,
+                "type": "rect",
+                "width": 288.4096728307254,
+                "x": 1377.9573257467996,
+                "y": 975.9317211948792
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_24458/w_2071.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 516.1877667140827,
+                "type": "rect",
+                "width": 521.1038406827881,
+                "x": 1745.7937411095306,
+                "y": 1932.0170697012802
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_06339/w_2547.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 387.45945945945937,
+                "type": "rect",
+                "width": 337.9345661450925,
+                "x": 1599.796586059744,
+                "y": 1002.1507823613088
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78628/w_4085.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 288.4096728307254,
+                "type": "rect",
+                "width": 364.1536273115221,
+                "x": 1284.7339971550498,
+                "y": 780.7453769559033
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_81875/w_5051.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 220.3584637268848,
+                "type": "rect",
+                "width": 375.0782361308677,
+                "x": 989.2688477951635,
+                "y": 788.4509246088194
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_63816/w_7430.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 811.1522048364154,
+                "type": "rect",
+                "width": 742.3271692745375,
+                "x": 2231.8975817923188,
+                "y": 1022.543385490754
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_80947/w_3690.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 317.5419630156473,
+                "type": "rect",
+                "width": 454.46372688477936,
+                "x": 1436.2219061166431,
+                "y": 1074.9815078236131
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_32087/w_6570.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 215.57894736842104,
+                "type": "rect",
+                "width": 259.27738264580375,
+                "x": 1520.705547652916,
+                "y": 646.7368421052632
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_70138/w_6780.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 235.97155049786625,
+                "type": "rect",
+                "width": 381.633001422475,
+                "x": 1360.4779516358465,
+                "y": 1072.068278805121
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33140/w_5808.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 299.8805120910383,
+                "type": "rect",
+                "width": 216.30725462304417,
+                "x": 2099.1635846372687,
+                "y": 1140.529160739687
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_07647/w_4010.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 367.06685633001416,
+                "type": "rect",
+                "width": 352.50071123755333,
+                "x": 780.7453769559033,
+                "y": 1465.3541963015648
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_67407/w_6698.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 190.51162790697674,
+                "type": "rect",
+                "width": 410.79069767441865,
+                "x": 1393.1162790697674,
+                "y": 2.9767441860465116
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90820/w_121.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 319.5448079658604,
+                "type": "rect",
+                "width": 585.01280227596,
+                "x": 2015.5903271692746,
+                "y": 1858.275960170697
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_65586/w_9073.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 273.8435277382645,
+                "type": "rect",
+                "width": 241.79800853485085,
+                "x": 1605.1891891891892,
+                "y": 404.93883357041256
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41125/w_3770.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 329.19487908961605,
+                "type": "rect",
+                "width": 308.80227596017085,
+                "x": 1290.5604551920342,
+                "y": 1107.027027027027
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52342/w_4193.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 253.45092460881938,
+                "type": "rect",
+                "width": 305.88904694167854,
+                "x": 1354.651493598862,
+                "y": 847.7496443812233
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_84178/w_6881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 215.57894736842104,
+                "type": "rect",
+                "width": 288.4096728307254,
+                "x": 1628.4950213371267,
+                "y": 1086.6344238975819
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_07863/w_5614.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 339.2091038406829,
+                "type": "rect",
+                "width": 304.79658605974373,
+                "x": 2949.6443812233288,
+                "y": 1533.8150782361308
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48966/w_9326.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 247.624466571835,
+                "type": "rect",
+                "width": 358.3271692745377,
+                "x": 1275.9943100995733,
+                "y": 917.6671408250356
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09454/w_4223.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 276.75675675675666,
+                "type": "rect",
+                "width": 396.19914651493605,
+                "x": 1342.9985775248933,
+                "y": 806.9644381223329
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52749/w_7827.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 319.5448079658606,
+                "type": "rect",
+                "width": 299.8805120910383,
+                "x": 2389.2119487908963,
+                "y": 1641.968705547653
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78372/w_2579.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 413.67852062588895,
+                "type": "rect",
+                "width": 326.28165007112386,
+                "x": 993.4110953058322,
+                "y": 670.0426742532006
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64714/w_659.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 393.28591749644374,
+                "type": "rect",
+                "width": 727.5789473684208,
+                "x": 2625.1834992887625,
+                "y": 1396.1650071123756
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_81875/w_68.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 276.7567567567568,
+                "type": "rect",
+                "width": 361.24039829303,
+                "x": 1115.7667140825035,
+                "y": 637.9971550497867
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_39915/w_440.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 383.4537695590325,
+                "type": "rect",
+                "width": 644.0056899004267,
+                "x": 2217.149359886202,
+                "y": 1700.9615931721196
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64989/w_2489.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 224.31863442389755,
+                "type": "rect",
+                "width": 378.7197724039829,
+                "x": 1654.7140825035563,
+                "y": 323.3684210526316
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_26288/w_266.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 244.71123755334293,
+                "type": "rect",
+                "width": 498.1621621621621,
+                "x": 1028.3698435277383,
+                "y": 906.0142247510669
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_18158/w_8239.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 412.95021337126605,
+                "type": "rect",
+                "width": 447.362731152205,
+                "x": 2502.2816500711237,
+                "y": 1553.4793741109531
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_29569/w_5557.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 253.45092460881938,
+                "type": "rect",
+                "width": 326.28165007112375,
+                "x": 1500.3129445234708,
+                "y": 827.3570412517781
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_96240/w_1716.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 273.8435277382646,
+                "type": "rect",
+                "width": 413.67852062588895,
+                "x": 1450.788051209104,
+                "y": 1101.2005689900427
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46974/w_5734.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 796.4039829302988,
+                "type": "rect",
+                "width": 585.01280227596,
+                "x": 2133.1564722617354,
+                "y": 2172.904694167852
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_66852/w_8036.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 422.7823613086771,
+                "type": "rect",
+                "width": 752.1593172119487,
+                "x": 594.8449502133712,
+                "y": 1469.9061166429588
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_38681/w_5429.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 232.07965860597437,
+                "type": "rect",
+                "width": 325.84921763869124,
+                "x": 1404.199146514936,
+                "y": 757.1891891891892
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_66353/w_6263.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 653.8378378378377,
+                "type": "rect",
+                "width": 629.25746799431,
+                "x": 2831.6586059743954,
+                "y": 1946.7652916073969
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46169/w_5520.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 323.3684210526317,
+                "type": "rect",
+                "width": 335.0213371266002,
+                "x": 1366.3044096728308,
+                "y": 1211.9032716927454
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_38191/w_1928.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 247.62446657183511,
+                "type": "rect",
+                "width": 288.4096728307254,
+                "x": 1066.2418207681367,
+                "y": 824.4438122332859
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41881/w_9173.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 384.5462304409673,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 1388.8250355618777,
+                "y": 1165.167852062589
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_61461/w_7310.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 875.0611664295874,
+                "type": "rect",
+                "width": 820.9843527738262,
+                "x": 2654.679943100996,
+                "y": 776.7396870554766
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_23525/w_272.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 439.89758179231876,
+                "type": "rect",
+                "width": 320.4551920341394,
+                "x": 1171.118065433855,
+                "y": 996.3243243243244
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82602/w_4562.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.14509246088198,
+                "type": "rect",
+                "width": 422.41820768136563,
+                "x": 1121.593172119488,
+                "y": 661.3029871977241
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52342/w_2973.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 332.1081081081081,
+                "type": "rect",
+                "width": 384.5462304409673,
+                "x": 1328.4324324324325,
+                "y": 407.8520625889047
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_99326/w_5178.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 186.44665718349938,
+                "type": "rect",
+                "width": 297.14935988620186,
+                "x": 1645.9743954480798,
+                "y": 818.6173541963016
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48386/w_4441.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 300.06258890469417,
+                "type": "rect",
+                "width": 250.53769559032708,
+                "x": 1191.5106685633002,
+                "y": 670.0426742532006
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_17785/w_1277.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 201.0128022759602,
+                "type": "rect",
+                "width": 367.06685633001416,
+                "x": 1203.163584637269,
+                "y": 975.9317211948792
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_66935/w_8374.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 367.0668563300143,
+                "type": "rect",
+                "width": 431.1578947368421,
+                "x": 1150.7254623044098,
+                "y": 804.0512091038407
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_50021/w_4215.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 408.0341394025604,
+                "type": "rect",
+                "width": 752.159317211949,
+                "x": 1868.1081081081081,
+                "y": 1873.0241820768138
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82554/w_7846.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.1450924608821,
+                "type": "rect",
+                "width": 364.1536273115221,
+                "x": 938.0597439544808,
+                "y": 1305.126600284495
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_82548/w_369.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 192.27311522048353,
+                "type": "rect",
+                "width": 451.5504978662873,
+                "x": 1211.9032716927454,
+                "y": 1124.5064011379802
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78395/w_8750.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 235.97155049786625,
+                "type": "rect",
+                "width": 355.4139402560455,
+                "x": 929.3200568990043,
+                "y": 1040.022759601707
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_53580/w_5804.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 372.89331436699854,
+                "type": "rect",
+                "width": 656.7823613086771,
+                "x": 1635.4039829302988,
+                "y": 959.1963015647227
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_09651/w_5095.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 227.2318634423898,
+                "type": "rect",
+                "width": 425.3314366998577,
+                "x": 1293.4736842105265,
+                "y": 1229.3826458036986
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33140/w_7128.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 469.0298719772404,
+                "type": "rect",
+                "width": 445.7240398293029,
+                "x": 1444.9615931721196,
+                "y": 1176.9445234708394
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_79199/w_3090.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 367.0668563300143,
+                "type": "rect",
+                "width": 617.6045519203415,
+                "x": 1372.3456614509246,
+                "y": 698.1337126600284
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_10977/w_4922.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 279.6699857752489,
+                "type": "rect",
+                "width": 335.02133712660043,
+                "x": 1546.9246088193456,
+                "y": 489.4224751066857
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86585/w_2668.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.3271692745377,
+                "type": "rect",
+                "width": 314.628733997155,
+                "x": 1275.9943100995733,
+                "y": 1319.692745376956
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_11555/w_5131.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 451.5504978662875,
+                "type": "rect",
+                "width": 335.0213371266002,
+                "x": 1287.647226173542,
+                "y": 1342.9985775248933
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_24458/w_8551.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 230.14509246088187,
+                "type": "rect",
+                "width": 369.98008534850624,
+                "x": 1398.3499288762448,
+                "y": 1124.5064011379802
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48024/w_2825.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 667.1294452347083,
+                "type": "rect",
+                "width": 527.294452347084,
+                "x": 1165.2916073968706,
+                "y": 506.9018492176387
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_34656/w_435.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.8733997155048,
+                "type": "rect",
+                "width": 673.50213371266,
+                "x": 3264.2731152204838,
+                "y": 1868.1081081081081
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_37269/w_4875.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 343.76102418207677,
+                "type": "rect",
+                "width": 477.76955903271687,
+                "x": 827.3570412517781,
+                "y": 777.8321479374112
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41125/w_622.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 256.36415362731157,
+                "type": "rect",
+                "width": 442.81081081081084,
+                "x": 1040.022759601707,
+                "y": 978.8449502133714
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_83791/w_8613.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 227.23186344238968,
+                "type": "rect",
+                "width": 305.88904694167854,
+                "x": 1444.9615931721196,
+                "y": 862.7083926031295
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_60921/w_8930.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 285.4964438122332,
+                "type": "rect",
+                "width": 431.1578947368423,
+                "x": 1278.9075391180654,
+                "y": 559.3399715504979
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_46169/w_2058.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 163.14082503556187,
+                "type": "rect",
+                "width": 215.57894736842104,
+                "x": 1500.3129445234708,
+                "y": 932.2332859174965
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_34488/w_5514.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 235.97155049786625,
+                "type": "rect",
+                "width": 363.78947368421086,
+                "x": 2521.945945945946,
+                "y": 1494.4864864864865
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_78280/w_6664.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 206.83926031294448,
+                "type": "rect",
+                "width": 250.53769559032708,
+                "x": 1482.833570412518,
+                "y": 868.1422475106687
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_00195/w_6326.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 224.3186344238976,
+                "type": "rect",
+                "width": 343.7610241820769,
+                "x": 1118.6799431009958,
+                "y": 713.7411095305832
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48490/w_4263.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 580.0967283072546,
+                "type": "rect",
+                "width": 565.3485064011379,
+                "x": 2974.2247510668562,
+                "y": 1110.697012802276
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33195/w_458.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 372.89331436699854,
+                "type": "rect",
+                "width": 367.0668563300144,
+                "x": 1468.2674253200569,
+                "y": 1201.9032716927454
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_49210/w_6546.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 209.75248933143678,
+                "type": "rect",
+                "width": 241.79800853485062,
+                "x": 1645.9743954480798,
+                "y": 521.4679943100996
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_41805/w_8873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 134.0085348506401,
+                "type": "rect",
+                "width": 195.18634423897583,
+                "x": 1590.6230440967283,
+                "y": 795.3115220483642
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_32198/w_6976.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 238.88477951635844,
+                "type": "rect",
+                "width": 399.1123755334281,
+                "x": 1144.8990042674254,
+                "y": 765.8321479374112
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_35004/w_243.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 353.95732574679937,
+                "type": "rect",
+                "width": 521.1038406827884,
+                "x": 2472.7852062588904,
+                "y": 1302.7596017069702
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86377/w_1390.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 227.2318634423898,
+                "type": "rect",
+                "width": 206.8392603129446,
+                "x": 1555.6642958748223,
+                "y": 990.49786628734
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_23847/w_6387.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 273.84352773826447,
+                "type": "rect",
+                "width": 445.7240398293029,
+                "x": 1007.9772403982931,
+                "y": 836.0967283072547
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_72820/w_5960.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 451.5504978662875,
+                "type": "rect",
+                "width": 486.5092460881933,
+                "x": 1640.1479374110954,
+                "y": 763.2660028449502
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_75455/w_472.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.0170697012802,
+                "type": "rect",
+                "width": 311.7155049786629,
+                "x": 1302.213371266003,
+                "y": 1042.9359886201992
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_75682/w_6901.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 168.96728307254625,
+                "type": "rect",
+                "width": 364.15362731152186,
+                "x": 1214.8165007112377,
+                "y": 1048.7624466571835
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_51195/w_6996.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 247.624466571835,
+                "type": "rect",
+                "width": 288.4096728307254,
+                "x": 1214.8165007112377,
+                "y": 774.918918918919
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_18845/w_2880.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 314.628733997155,
+                "type": "rect",
+                "width": 364.1536273115221,
+                "x": 1246.8620199146515,
+                "y": 1334.2588904694169
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_40169/w_7408.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 398.20199146514943,
+                "type": "rect",
+                "width": 707.9146514935987,
+                "x": 3121.706970128023,
+                "y": 412.950213371266
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86585/w_7404.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 387.45945945945937,
+                "type": "rect",
+                "width": 416.59174964438125,
+                "x": 928.0597439544808,
+                "y": 1424.9615931721196
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_67407/w_2938.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 452.2788051209102,
+                "type": "rect",
+                "width": 683.3342816500713,
+                "x": 2797.2460881934567,
+                "y": 1976.2617354196302
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_88432/w_5445.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 320.4551920341395,
+                "type": "rect",
+                "width": 533.1209103840683,
+                "x": 1375.0440967283073,
+                "y": 783.6586059743955
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33152/w_2409.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 683.3342816500713,
+                "type": "rect",
+                "width": 535.8520625889048,
+                "x": 1804.199146514936,
+                "y": 2035.2546230440967
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_35426/w_7798.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 238.88477951635855,
+                "type": "rect",
+                "width": 349.58748221906126,
+                "x": 1232.2958748221906,
+                "y": 891.448079658606
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_33152/w_6526.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 294.9644381223329,
+                "type": "rect",
+                "width": 737.4110953058325,
+                "x": 2305.6386913229016,
+                "y": 1790.7795163584638
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_13288/w_9268.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 560.4324324324325,
+                "type": "rect",
+                "width": 786.5718349928875,
+                "x": 2143.4082503556187,
+                "y": 1656.7169274537696
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_00195/w_5270.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 209.75248933143678,
+                "type": "rect",
+                "width": 416.59174964438125,
+                "x": 1328.4324324324325,
+                "y": 795.3115220483642
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_73684/w_5375.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 180.6201991465149,
+                "type": "rect",
+                "width": 381.633001422475,
+                "x": 1599.362731152205,
+                "y": 952.6258890469418
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_64274/w_6463.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 565.3485064011381,
+                "type": "rect",
+                "width": 555.5163584637269,
+                "x": 1995.9260312944523,
+                "y": 1347.00426742532
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_07331/w_5454.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 419.50497866287355,
+                "type": "rect",
+                "width": 466.11664295874823,
+                "x": 929.3200568990043,
+                "y": 628.5633001422475
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_30331/w_125.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 530.9359886201992,
+                "type": "rect",
+                "width": 766.9075391180656,
+                "x": 1789.4509246088194,
+                "y": 1848.4438122332858
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_59627/w_4525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 358.3271692745378,
+                "type": "rect",
+                "width": 323.3684210526317,
+                "x": 1077.8947368421052,
+                "y": 871.0554765291607
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_11099/w_5512.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 678.4182076813656,
+                "type": "rect",
+                "width": 673.50213371266,
+                "x": 2374.4637268847796,
+                "y": 1617.3883357041252
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_25878/w_4793.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 217.7638691322902,
+                "type": "rect",
+                "width": 227.23186344238957,
+                "x": 2565.826458036984,
+                "y": 1950.4068278805119
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_48386/w_6805.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 154.40113798008542,
+                "type": "rect",
+                "width": 268.01706970128043,
+                "x": 1194.4238975817923,
+                "y": 792.398293029872
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_31594/w_7248.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 241.79800853485074,
+                "type": "rect",
+                "width": 402.0256045519204,
+                "x": 1369.217638691323,
+                "y": 993.4110953058322
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_68116/w_2372.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 413.6785206258892,
+                "type": "rect",
+                "width": 265.1038406827879,
+                "x": 1281.8207681365577,
+                "y": 1296.3869132290185
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_00195/w_3736.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 474.8563300142247,
+                "type": "rect",
+                "width": 457.3769559032719,
+                "x": 1278.9075391180654,
+                "y": 713.7411095305832
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_85670/w_8140.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 288.4096728307254,
+                "type": "rect",
+                "width": 419.5049786628733,
+                "x": 806.9644381223329,
+                "y": 949.7126600284496
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_19041/w_4830.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 265.1038406827881,
+                "type": "rect",
+                "width": 273.8435277382646,
+                "x": 1176.9445234708394,
+                "y": 477.7695590327169
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_99573/w_8956.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 445.72403982930314,
+                "type": "rect",
+                "width": 378.7197724039829,
+                "x": 859.4025604551921,
+                "y": 1194.4238975817923
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_69459/w_9274.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 159.40825035561875,
+                "type": "rect",
+                "width": 253.17780938833562,
+                "x": 1040.842105263158,
+                "y": 733.74679943101
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_28263/w_1660.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 544.7738264580371,
+                "type": "rect",
+                "width": 448.6372688477952,
+                "x": 1089.547652916074,
+                "y": 795.3115220483642
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_90957/w_6702.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 276.75675675675666,
+                "type": "rect",
+                "width": 428.24466571835,
+                "x": 1401.2631578947369,
+                "y": 1150.7254623044098
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_87604/w_3511.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 288.4096728307255,
+                "type": "rect",
+                "width": 349.58748221906114,
+                "x": 987.5846372688478,
+                "y": 952.6258890469418
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_36851/w_5539.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 530.9359886201992,
+                "type": "rect",
+                "width": 555.5163584637271,
+                "x": 3180.699857752489,
+                "y": 1641.968705547653
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_65057/w_4955.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 160.2275960170698,
+                "type": "rect",
+                "width": 262.19061166429583,
+                "x": 1529.4452347083927,
+                "y": 926.4068278805121
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_80405/w_584.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 180.6201991465149,
+                "type": "rect",
+                "width": 393.28591749644374,
+                "x": 1275.9943100995733,
+                "y": 981.7581792318634
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_86158/w_9133.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 262.19061166429594,
+                "type": "rect",
+                "width": 235.97155049786625,
+                "x": 1313.8662873399717,
+                "y": 973.018492176387
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_13288/w_583.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 196.91607396870552,
+                "type": "rect",
+                "width": 314.12802275960166,
+                "x": 1106.4807965860598,
+                "y": 553.2403982930299
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_04435/w_8204.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 373.62162162162167,
+                "type": "rect",
+                "width": 580.0967283072546,
+                "x": 2684.176386913229,
+                "y": 1479.7382645803698
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_28384/w_7168.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 268.0170697012802,
+                "type": "rect",
+                "width": 279.66998577524896,
+                "x": 1692.5860597439546,
+                "y": 900.1877667140825
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_39293/w_7623.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 492.3357041251778,
+                "type": "rect",
+                "width": 404.9388335704127,
+                "x": 1273.081081081081,
+                "y": 667.1294452347084
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_52749/w_7409.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "Head",
+                "height": 314.6287339971551,
+                "type": "rect",
+                "width": 332.1081081081081,
+                "x": 1666.366998577525,
+                "y": 783.6586059743955
+            }
+        ],
+        "class": "image",
+        "filename": "../imgs/whale_56281/w_1881.jpg"
+    }
+]

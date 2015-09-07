@@ -40,6 +40,8 @@ If you'd like to provide additional annotation, or augment the annotation yourse
     ln -s annotations/whale_faces_smerity.json .
     sloth --config slothwhales.py whale_faces_smerity.json
 
+Replacing `smerity` with your identifying handle for easy merging. This will allow for easy merging of multiple annotations.
+
 Whilst no explicit annotation guidelines were used, the head should capture all of the visible callosity patterns on the whale's head and include the eyes and eyebrow callosities if visible. If in doubt, more is better advised than less.
 
 # License

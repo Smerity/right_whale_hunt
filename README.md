@@ -7,7 +7,7 @@
 
 This repository contains Sloth annotations for extracting whale heads from whale images in the [NOAA Right Whale Recognition Kaggle competition](https://www.kaggle.com/c/noaa-right-whale-recognition).
 
-The initial dataset has 300 images over 11 whales:
+The initial dataset had 300 images over 11 whales:
 
     smerity@pegasus:~/Coding/whale_hunt$ find heads/ | grep "jpg" | cut -d '/' -f 2 | sort | uniq -c
          24 whale_08017
@@ -21,18 +21,22 @@ The initial dataset has 300 images over 11 whales:
          22 whale_48966
          28 whale_51195
          24 whale_52749
+         
+The new dataset has grown substantially as it has been helped by many!
 
 The data is assumed to be in the `imgs` folder, sorted by identified whale as provided by inversion's [Python script to sort the whale images](https://www.kaggle.com/c/noaa-right-whale-recognition/forums/t/16275/python-script-to-sort-images).
 
 To extract the heads, simply run:
 
-    python extract_tiles_from_sloth.py annotations/whale_faces_smerity.json
+    python extract_tiles_from_sloth.py annotations/*.json
 
-By default this will provide a 256 x 256 image of the head, maintaining the same width:height ratio.
+By default this will provide a 256 x 256 image of the head, expanded to be a box. If you woud like to maintain the exact annotation, set `PAD_TO_BOX` to `False`.
 
 ![Whale 26288](http://i.imgur.com/o5cf6pd.jpg)
 
 # Contributing to annotations
+
+Whilst no explicit annotation guidelines have yet been formed, the head should capture all of the visible callosity patterns on the whale's head and include the eyes and eyebrow callosities if visible, even if obscured as they're underwater. If in doubt, more is better than less.
 
 If you'd like to provide additional annotation, or augment the annotation yourself, you can do so by using [Sloth](http://sloth.readthedocs.org/en/latest/), a versatile tool for various labeling tasks in the context of computer vision research.
 
@@ -42,7 +46,11 @@ If you'd like to provide additional annotation, or augment the annotation yourse
 
 Replacing `smerity` with your identifying handle for easy merging. This will allow for easy merging of multiple annotations.
 
-Whilst no explicit annotation guidelines were used, the head should capture all of the visible callosity patterns on the whale's head and include the eyes and eyebrow callosities if visible. If in doubt, more is better advised than less.
+# Thanks to:
+
++ inversion
++ jfkingiii
++ sunilsu
 
 # License
 
